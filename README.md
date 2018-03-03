@@ -1,2 +1,2 @@
 # MiningDashboard
-This repo holds the code powering my mining dashboard.
+This repo hodls the code powering my mining dashboard.
